@@ -1,0 +1,24 @@
+ls						listowanie
+clear						czyszczenie
+cd Desktop					wchodzi do katalogu
+cd ..						wychodzi do góry z katalogu
+mkdir						nazwa tworzy katalog
+cd nazwa					wchodzi do katalogu
+ls -a						listuje ukryte pliki
+git init					inicjalizuje gita w danym katalogu
+git config --global user.name "Imię Nazwisko"	nadajemy imię i nazwisko
+git config --global user.email email.nazwa.pl	nadajemy adres email
+git status					wyświetla sytuację w naszym pliku
+touch nazwa.txt					tworzymy plik tekstowy
+nano nazwa.txt					edytujemy
+git add nazwa.txt				zatwierdzamy zmiany
+git commit -m 'nazwa'				komituje
+git diff					mówi jakie zmiany zaszły w pliku
+git checkout -- main.txt			wycofuje zmiany
+git commit --amend
+
+
+
+
+
+git ignore					tu można stworzyć plik secret i dodać żeczy kóre mają być ukryte
