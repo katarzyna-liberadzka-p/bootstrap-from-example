@@ -21,4 +21,4 @@ git commit --amend
 
 
 
-git ignore					tu można stworzyć plik secret i dodać żeczy kóre mają być ukryte
+git ignore					tu można stworzyć plik secret i dodać rzeczy, kóre mają być ukryte
